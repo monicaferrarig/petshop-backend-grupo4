@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "backend-petshop-imagen",
+  "private_key_id": "2de78eaeaecdf5a9b3d18cda92c0c46386c2f967",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuKUZdZg6pTFa0\nv9no5Cqqe61IndsfJDwzhT+JLBhgSJUm4qwmwWPaiyJuQvxIwKnxJmmaL5Mj+C5j\nWtqFIDsQYpxwknORsY9nUscevhAS+bZWSo7lTVY0QZLtIEVszfV0ILV/R2UBcMRe\nJr9djkAFgYMTkkSlTpBjlxJnUhe4+E1K9/UmtAZW0Dn4L2LyTda+vngX7usIJ+uB\nQXQ+L9QDPO0Igq0aOdB0KAb/JsqFjwTP91uJXWUPjZh4LiG9yKk/TzMkebvZ7A7u\nBMXAjaQgO20Qn3SbbVHuFZbjCcWBnKFw2lb4tc0BUDoRVbXlg6c4kUqd78N/YTLz\np2v0Nrk3AgMBAAECggEAJA8Vq4bS6EiO9zN1qZt8HfonYY6VbLgy4rPm+L6xeVXt\n07RA0nFd/ESsZ0nlNCb3yJ8cZDkPbPYYnKeV8NRAhl70ZvZbiUHLIChqY7oUV+lt\n0CX1uhIuE/mzsvboiOOHu3h+O5ELn6W6cofxPSyTotAy1F2HavZ+PLBttgiwMrKW\ncFueSfns+kRB543nar1DhGhU05imi8iUCaOqvQl3q00H19CJB59SYPwnHcvVbzLX\nnm7f7MBwOrXf96xYybA72WZ7wsgLgPKuTOSZc3rMWYG4lof2uc0lLV6CJQcjQGOZ\nkcP71HCnxJJVpMedVY2V55UatbVt3Co6Pm2pxQLD+QKBgQDoTgrnBD6OHmWixFp6\n8JvDa0n39Hs91UsiNwmoQmHx7RYhtGkzSiWScuuf+HPFqxzmWriqo7HwU5itPPZ8\nOmD5Nsh9+CbDmTh2j8OrxN6V+9KKkytEujjeEeGvdlXFhYi0O5pQCTALrxRQI83N\nDyRKt+R7nTb4z4t5edqh/ylVfQKBgQC/7PuR+0mzOzRFSZt1Tgke72PMmx0AQoTy\nc9yqETHrR2YbjUuzlEP5ec1Lptu1sE/ENtM4cP4ELHS1PmszOBu4h7fVR2uMJctc\nwgqSGti8ESodLdh1MyUJ/YboNPdPenLdIHe1ueAyiPbDjRljIInSPtl6opzqRu9u\nkDI/12v3wwKBgQChqB2CIbv+XjzQBeAJCYL7fJ/ewu04XEOKrc40nu1V02zBS7Ch\nlomK3hoGGnlGJwtXae50ILHk0ee/Nls4m8973Zmrv5IKL4fRSb4avEdBDBq5gCxu\nCUElmD/7QFfzujclZQy/gYVDvDRgiGngtxbEQC/prb/haVxfzmJMtSnoaQKBgA1x\n3YGxd809dYDxEhnamJr5LCWWLCbrggK2CRxEzhlsTAPcFxSCa2ybkr0c+EE3E69s\nI8nNaI4ESzyzHbFd2dtIbqFbOnZ7404hLbpkdRBfp3KZ1pMHPS4A+6ViqHyB2HAT\nKS+q0MDZhWfXh5LBIcZ/rp5/q7xhsb4uDccZITAfAoGBAOM9qDbAeYNP9iikh7h8\nIvL5FnKP/Ml6LGoaoErvz3PdJffo9zuOzHo/mYiQ/WZQzAhL7W/LZuL/KiV0p3Su\ncyDoM4Hm9N/PTloE/igkMzv6JBrblr/8gIHrud6T0nMY3g4pvqCsqdwmw3o3XptW\nS8DOvhhFJWADH4FyMMR5uTKa\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-kzzxd@backend-petshop-imagen.iam.gserviceaccount.com",
+  "client_id": "112908004890265473687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-kzzxd%40backend-petshop-imagen.iam.gserviceaccount.com"
+}

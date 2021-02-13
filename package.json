@@ -1,0 +1,32 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "Proyecto Backend Grupo 4 - PetShop",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sequelize",
+    "jwt",
+    "express"
+  ],
+  "author": "Noe Zavaleta / Monica Ferrari",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/storage": "^5.7.4",
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.5.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
